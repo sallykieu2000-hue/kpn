@@ -1,0 +1,12 @@
+{
+  "name": "trang-ca-nhan",
+  "version": "1.0.0",
+  "description": "Trang web cá nhân đơn giản bằng Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
